@@ -6,7 +6,7 @@
 
 
 
-***Contact*** : 
+### _Contact_ : 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilraj-computerengineer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://nikilsiri2003@gmail.com)
@@ -14,7 +14,7 @@
 
 
 
-***Skills Summary*** : 
+### _Skills_ _Summary_ : 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -39,7 +39,7 @@
 
 
 
-***Blogs***: 
+### _Blogs_: 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilsiri2003)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhilraj-2003)
