@@ -44,7 +44,7 @@
 
 
 
-![snake gif](https://github.com/NikhilRaj-2003/NikhilRaj-2003/blob/output/github-snake-dark.svg)
+
 
 
 
