@@ -1,31 +1,23 @@
-name: Generate Snake Game
+name: Daily Commit
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 4 * * *" # Every day at 4:00 AM UTC
   workflow_dispatch:
 
 jobs:
-  generate:
+  commit:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Allow pushing changes to repo
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: NikhilRaj-2003
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Commit and Push
+      - name: Make a commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "🐍 update snake game"
+          echo "🕒 Commit on $(date)" >> activity.md
+          git config --global user.name "Nikhil Raj A"
+          git config --global user.email "nikhilsiri2003@gmail.com"
+          git add activity.md
+          git commit -m "📅 Daily commit - $(date)" || echo "No changes to commit"
           git push
