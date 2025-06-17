@@ -8,9 +8,9 @@
 
 ## 📈 GitHub Stats
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilRaj-2003&show_icons=true&theme=tokyonight)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilRaj-2003&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRaj-2003&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRaj-2003&layout=compact&theme=tokyonight)
+
 
 
 ## ✨ Tech Stack
