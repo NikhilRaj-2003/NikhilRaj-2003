@@ -1,15 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&fontSize=90" style="width: 100%;" />
 
+# Hi there 👋 I'm Nikhil Raj A
+
+🎓 Aspiring Web Developer | 💻 Python & AWS Enthusiast  
+🚀 Currently building cloud automation and serverless projects on AWS  
+🌱 Learning DevOps | EC2, Lambda, S3, SNS, GitHub Actions  
+
+## 📈 GitHub Stats
+
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilRaj-2003&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRaj-2003&layout=compact&theme=tokyonight)
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=I%20am%20Nikhil%20Raj&fontSize=50&fontColor=000000" />
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/NikhilRaj-2003/NikhilRaj-2003/output/github-contribution-grid-snake.svg)
-
-
-### _Skills_ _Summary_ : 
+## ✨ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -35,33 +39,17 @@
 
 
 
-### _Blogs_ : 
+
+### ✍Blogs : 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilsiri2003)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhilraj-2003)
 
 
-
-### _Contact_ : 
+### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilraj-computerengineer/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNPVQChNgkWzPzCHDzHBPzdcTcDzCLDZMnpPTQfPZzqgjTlCLckNqsMbtBgRpwhWcZC)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsiri2003@gmail.com)
 
 
 
