@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=I%20am%20Nikhil%20Raj&fontSize=50&fontColor=000000" />
 
-![snake animation](https://github.com/<NikhilRaj-2003>/<NikhilRaj-2003>/blob/output/github-contribution-grid-snake2.gif)
+![snake animation](https://github.com/NikhilRaj-2003/NikhilRaj-2003/blob/output/github-contribution-grid-snake2.gif)
 
 ### _Skills_ _Summary_ : 
 
