@@ -6,14 +6,14 @@
 🚀 Currently building cloud automation and serverless projects on AWS  
 🌱 Learning DevOps | EC2, Lambda, S3, SNS, GitHub Actions  
 
-## 📈 GitHub Stats
+## 📈GitHub Stats
 
 ![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilRaj-2003&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRaj-2003&layout=compact&theme=tokyonight)
 
 
 
 
-## ✨ Tech Stack
+## ✨Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -40,13 +40,13 @@
 
 
 
-### ✍Blogs : 
+## ✍Blogs
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilsiri2003)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhilraj-2003)
 
 
-### 📫 Let's Connect!
+## 📫Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilraj-computerengineer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsiri2003@gmail.com)
