@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Nikhil Raj A
 
-🎓 Aspiring Web Developer | 💻 Python & AWS Enthusiast  
+🎓 Aspiring Cloud Engineer | 💻 Python & AWS Enthusiast  
 🚀 Currently building cloud automation and serverless projects on AWS  
 🌱 Learning DevOps | EC2, Lambda, S3, SNS, GitHub Actions  
 
