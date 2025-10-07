@@ -36,7 +36,7 @@
  	![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
   	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+   ![Zendesk](https://img.shields.io/badge/Zendesk-03363D.svg?style=for-the-badge&logo=Zendesk&logoColor=white)
 
 
 
